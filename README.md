@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Alexander Sek
+# Hey there! 👋 
 
 ## 🚀 About Me
 I am an experienced Typescript Web Developer with a total of 6 years in web development, including 3 years of specialization in React and Node.js. My journey encompassed a full-stack role involving UX/UI design, frontend, and backend responsibilities, providing me with a unique perspective that enriches my approach to development.
