@@ -1,7 +1,7 @@
 # Hey there! 👋 
 
 ## 🚀 About Me
-I am an experienced Typescript Web Developer with a total of 6 years in web development, including 3 years of specialization in React and Node.js. My journey encompassed a full-stack role involving UX/UI design, frontend, and backend responsibilities, providing me with a unique perspective that enriches my approach to development.
+I am an experienced Typescript Web Developer with a total of 8 years in web development, including 5 years of specialization in React and Node.js. My journey encompassed a full-stack role involving UX/UI design, frontend, and backend responsibilities, providing me with a unique perspective that enriches my approach to development.
 
 ## 🛠️ Skills
 
@@ -47,5 +47,3 @@ I am an experienced Typescript Web Developer with a total of 6 years in web deve
 ### Design Tools
 
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
-![Sketch](https://img.shields.io/badge/Sketch-FFB387?style=for-the-badge&logo=sketch&logoColor=black)
